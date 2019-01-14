@@ -5,7 +5,7 @@
 
 Enter Python in the interactive mode by typing `python3` in a terminal (`Ctrl`+`Alt`+`T`):
 
-    >>> :
+    >>>
 
 Let's use python as a calculator to practice a bit with operators, try to guess what each operator stands for: 
 
@@ -13,18 +13,18 @@ Let's use python as a calculator to practice a bit with operators, try to guess 
 
     >>>  42-4
 
-This one are self-evident, let's move on.
+These two are self-evident.
 
     >>>  42/240
 
 These ones are also quite obvious, right ?
 
-Next ones are quite convenient:
+Next ones are less often used:
 
     >>> 42//5
     8
 
-The `//` stands for floor division. In this case `5 * 8 = 40` and the remainer of this divsiion will be `2`. Let's get the remained using the Modulus operator:
+The `//` stands for floor division. In this case `5 * 8 = 40` and the remainer of this divsiion will be `2`. Let's get the remainer using the Modulus operator:
 
     >>> 42%5
     2
@@ -40,13 +40,13 @@ Now that we know our operators a bit, here are some additional operations you ca
 
 Which operations result in 8?
 
-* `0 + 8`
-* `4 4`
-* `8 /`
-* `65 // 8`
-* `17 % 9`
-* `2 * * 4`
-* `64 ** 0.5`
+1. `0 + 8`
+2. `4 4`
+3. `8 /`
+4. `65 // 8`
+5. `17 % 9`
+6. `2 * * 4`
+7. `64 ** 0.5`
 
 ---
 
