@@ -88,7 +88,7 @@ print("This program will tell you if it is already the worst day of the week.")
 today = date.today()
 print( monday_check(today) )
 ```
-Try this code: https://github.com/pythonclubmtl/learning_python3 -> `ex_mondaycheck.py`
+Try this code: Go to `examples` folder -> `ex_mondaycheck.py`
  
 ---
  

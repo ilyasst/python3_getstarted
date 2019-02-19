@@ -23,7 +23,7 @@ for val in sequence:
 	Something happens
 ```
 
-> Now, go to https://github.com/pythonclubmtl/learning_python3, copy the content of `ex_for.py` in one of your file and execute it using python3. 
+> Now, go to the `examples` folder, copy the content of `ex_for.py` in one of your file and execute it using python3. 
 
 ---
 
